@@ -1,0 +1,5 @@
+.idea/copilot/
+.venv/
+speedtest_results.csv
+connectiontest_results.csv
+speedtest.log
